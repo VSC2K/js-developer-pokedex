@@ -1,3 +1,6 @@
+
+https://javascript-developer-pokedex-vsc2k.vercel.app
+
 # Trilha JS Developer - Pokedex
 
 // PARECE SER UM PROJETO JÁ DEFASADO PELA COMUNIDADE DEV, POREM É APENAS O INICIO DE UMA LONGA CAMINHADA DE ESTUDOS. 
